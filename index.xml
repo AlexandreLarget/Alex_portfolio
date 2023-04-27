@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data science Portfolio on Alexandre Larget</title>
+    <link>https://alexandrelarget.github.io/Alex_portfolio/</link>
+    <description>Recent content in Data science Portfolio on Alexandre Larget</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Apr 2023 11:13:32 -0400</lastBuildDate><atom:link href="https://alexandrelarget.github.io/Alex_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CNN, CNN, what do you see ?</title>
+      <link>https://alexandrelarget.github.io/Alex_portfolio/post/project-2/</link>
+      <pubDate>Sun, 16 Apr 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://alexandrelarget.github.io/Alex_portfolio/post/project-2/</guid>
+      <description>Neural networks are always referred to black-box because it is hard to understand individually each neuron&amp;rsquo;s work and how they interact together.
+Here we are going to open this black-box and give some visual explanations to understand how a convolutional neural network is able to &amp;ldquo;see&amp;rdquo; things.
+To do so, we will work on maybe the most popular convolutional neural network (CNN), the VGG16. Despite its age, it was first introduced in 2014, it is still used in many cases and applications and keep producing mazing results compared to newer architectures.</description>
+    </item>
+    
+    <item>
+      <title>Customer segmentation for Olist</title>
+      <link>https://alexandrelarget.github.io/Alex_portfolio/post/project-1/</link>
+      <pubDate>Sat, 09 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://alexandrelarget.github.io/Alex_portfolio/post/project-1/</guid>
+      <description>Olist, an E-commerce Brazilian platform, wants a customer segmentation for its marketing department.
+Method:
+Data aggregation cleaning and RFM segmentation Dimension reduction using T-sne Clustering using K-mean Stability test (model and time) Group analysis T-sne representation with a clustering k=4 T-sne representation with a clustering k=6 T-sne representation with a clustering k=7 Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://alexandrelarget.github.io/Alex_portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandrelarget.github.io/Alex_portfolio/about/</guid>
+      <description>Data scientist / machine learning engineer fascinated by deep learning My passion for data and the science around came late, when I was working for a company trying to create a solution to centralize the data on the cloud. This project made me realized that my knowledge of compiling, processing and analysing data was too limited to accomplish this mission.
+I looked for solutions and started following courses on databases, coding and queries.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://alexandrelarget.github.io/Alex_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandrelarget.github.io/Alex_portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+Github
+Linkedin
+Or send me an email at: alexandre.larget@gmail.com</description>
+    </item>
+    
+  </channel>
+</rss>

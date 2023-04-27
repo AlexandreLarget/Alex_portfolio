@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Alexandre Larget</title>
+    <link>https://alexandrelarget.github.io/Alex_portfolio/post/</link>
+    <description>Recent content in Projects on Alexandre Larget</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Apr 2023 12:00:00 -0500</lastBuildDate><atom:link href="https://alexandrelarget.github.io/Alex_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CNN, CNN, what do you see ?</title>
+      <link>https://alexandrelarget.github.io/Alex_portfolio/post/project-2/</link>
+      <pubDate>Sun, 16 Apr 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://alexandrelarget.github.io/Alex_portfolio/post/project-2/</guid>
+      <description>Neural networks are always referred to black-box because it is hard to understand individually each neuron&amp;rsquo;s work and how they interact together.
+Here we are going to open this black-box and give some visual explanations to understand how a convolutional neural network is able to &amp;ldquo;see&amp;rdquo; things.
+To do so, we will work on maybe the most popular convolutional neural network (CNN), the VGG16. Despite its age, it was first introduced in 2014, it is still used in many cases and applications and keep producing mazing results compared to newer architectures.</description>
+    </item>
+    
+    <item>
+      <title>Customer segmentation for Olist</title>
+      <link>https://alexandrelarget.github.io/Alex_portfolio/post/project-1/</link>
+      <pubDate>Sat, 09 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://alexandrelarget.github.io/Alex_portfolio/post/project-1/</guid>
+      <description>Olist, an E-commerce Brazilian platform, wants a customer segmentation for its marketing department.
+Method:
+Data aggregation cleaning and RFM segmentation Dimension reduction using T-sne Clustering using K-mean Stability test (model and time) Group analysis T-sne representation with a clustering k=4 T-sne representation with a clustering k=6 T-sne representation with a clustering k=7 Link to GitHub repository</description>
+    </item>
+    
+  </channel>
+</rss>
