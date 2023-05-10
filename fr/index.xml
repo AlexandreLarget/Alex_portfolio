@@ -6,14 +6,38 @@
     <description>Recent content in Data science Portfolio on Alexandre Larget</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://alexandrelarget.github.io/Alex_portfolio/fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 May 2023 11:13:32 -0400</lastBuildDate><atom:link href="https://alexandrelarget.github.io/Alex_portfolio/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chapitre I: La grande halle</title>
-      <link>https://alexandrelarget.github.io/Alex_portfolio/fr/post/chapter-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <title>Detection de défaut industriel, un problem de forge.</title>
+      <link>https://alexandrelarget.github.io/Alex_portfolio/fr/post/projet-3/</link>
+      <pubDate>Wed, 10 May 2023 11:13:32 -0400</pubDate>
       
-      <guid>https://alexandrelarget.github.io/Alex_portfolio/fr/post/chapter-1/</guid>
-      <description>Généralement, on utilise un texte en faux latin (le texte ne veut rien dire, il a été modifié), le Lorem ipsum ou Lipsum, qui permet donc de faire office de texte d&amp;rsquo;attente. L&amp;rsquo;avantage de le mettre en latin est que l&amp;rsquo;opérateur sait au premier coup d&amp;rsquo;oeil que la page contenant ces lignes n&amp;rsquo;est pas valide, et surtout l&amp;rsquo;attention du client n&amp;rsquo;est pas dérangée par le contenu, il demeure concentré seulement sur l&amp;rsquo;aspect graphique.</description>
+      <guid>https://alexandrelarget.github.io/Alex_portfolio/fr/post/projet-3/</guid>
+      <description>Les industries sont à la recherche de solutions pour améliorer leurs procédures de contrôle de la qualité. Aujourd&amp;rsquo;hui, la plupart de ces contrôles s&amp;rsquo;effectuent manuellement. Cela représente une grande perte de temps et est source de multiples d&amp;rsquo;erreurs.
+L&amp;rsquo;apprentissage automatisé, et notamment l&amp;rsquo;apprentissage profond, peuvent apporter des solutions innovantes avec la vision par ordinateur.
+Nous allons prendre pour exemple les données issues de &amp;ldquo;casting product image data for quality inspection&amp;rdquo;, un jeu de données disponible sur Kaggle, regroupant 1300 images partagée par la compagnie &amp;ldquo;PILOT TECHNOCAST&amp;rdquo;, une compagnie qui fabrique des roues de pompe submersibles.</description>
+    </item>
+    
+    <item>
+      <title>CNN, CNN, qu&#39;est-ce que tu vois ?</title>
+      <link>https://alexandrelarget.github.io/Alex_portfolio/fr/post/projet-2/</link>
+      <pubDate>Sun, 16 Apr 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://alexandrelarget.github.io/Alex_portfolio/fr/post/projet-2/</guid>
+      <description>Les réseaux de neurones sont souvent qualifiés de boîtes noires car il est difficile de comprendre le rôle individuel de chaque neurone ainsi que leurs interactions réciproques.
+Ici, nous allons ouvrir cette boîte noire and donner des illustrations to tenter de comprendre comment un réseau de neurones convolutif est capable de voir des choses.
+Pour ce faire, nous allons travailler sur peut-être le plus populaire des réseaux convolutifs, le VGG16. Malgré son âge avancé, il a été introduit pour la première fois en 2014, il est toujours très utilisé et continue de produire des résultats relativement proches des architectures plus récentes.</description>
+    </item>
+    
+    <item>
+      <title>Segmentation de clientèle pour Olist</title>
+      <link>https://alexandrelarget.github.io/Alex_portfolio/fr/post/projet-1/</link>
+      <pubDate>Sat, 09 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://alexandrelarget.github.io/Alex_portfolio/fr/post/projet-1/</guid>
+      <description>Olist est une plateforme de e-commerce Brésilienne. Ils souhaitent réaliser une segmentation de leur clientèle à destination de leur service marketing en vue de lancer des campagnes publicitaires ciblées.
+Méthode:
+Regroupement et nettoyage des données, segmentation RFM Réduction de dimensions avec T-sne Groupement avec K-mean Tests de stabilité (du model et temporel) Analyse des groupes trouvés T-sne representation with a clustering k=4 T-sne representation with a clustering k=6 T-sne representation with a clustering k=7 Link to GitHub repository</description>
     </item>
     
     <item>
@@ -22,9 +46,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alexandrelarget.github.io/Alex_portfolio/fr/contact/</guid>
-      <description>Ceci est la page de contact en Français.
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out Formspree for a simple, free form service.
-Votre nom Adresse e-mail Une adresse e-mail est requise. Message </description>
+      <description>Ou envoyez moi un courriel a: alexandre.larget@gmail.com</description>
     </item>
     
   </channel>

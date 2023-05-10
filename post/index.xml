@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Apr 2023 12:00:00 -0500</lastBuildDate><atom:link href="https://alexandrelarget.github.io/Alex_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Industrial defect detection, a cast problem.</title>
+      <link>https://alexandrelarget.github.io/Alex_portfolio/post/project-3/</link>
+      <pubDate>Wed, 10 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://alexandrelarget.github.io/Alex_portfolio/post/project-3/</guid>
+      <description>Industries are looking for solutions to improve the efficiency of their quality control processess. Today most of these quality checks are carried out manually. This is time-consuming and leads to many errors.
+However, machine learning, and specifically deep learning can bring inovative solutions through computer vision.
+As example, we will take the data from &amp;ldquo;casting product image data for quality inspection&amp;rdquo; a Kaggle dataset composed of 1300 images coming from &amp;ldquo;PILOT TECHNOCAST&amp;rdquo;, a company that casts submersible pump impeller.</description>
+    </item>
+    
+    <item>
       <title>CNN, CNN, what do you see ?</title>
       <link>https://alexandrelarget.github.io/Alex_portfolio/post/project-2/</link>
       <pubDate>Sun, 16 Apr 2023 11:13:32 -0400</pubDate>
